@@ -1,1 +1,1 @@
-# wordMasterGame
+# wordMastersGame
